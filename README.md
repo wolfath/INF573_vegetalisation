@@ -8,7 +8,7 @@ In this project, there are mostly three things :
 - some data
 
 ## What you can do
-the story.ipynb notebook is directly runnable. To run the train_cnn notebook, you need to downlaod the big dataset that can be found here: https://ignf.github.io/FLAIR/ .
+the story.ipynb notebook is directly runnable. To run the train_cnn notebook, you need to download the big dataset that can be found here: https://ignf.github.io/FLAIR/ .
 However all the parameters are the one we used for the training, and the results are still shown in the train_cnn.ipynb file.
 We exported a few predictions, a few labels and a few images in the data_sample folder for you to try if you want.
 
