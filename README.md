@@ -1,6 +1,4 @@
 # inf573vegetalisation
-Hello,
-
 The file "project_paper.pdf" describes the approach and the main results.
 
 ## Organisation
