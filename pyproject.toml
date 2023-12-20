@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "inf573vegetalisation"
+version = "0.1.0"
+description = "Projet d'info"
+authors = ["Theo240801 <gaboriaudtheo@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+matplotlib = "3.5.2"
+scikit-image = "0.19.3"
+pillow = ">=9.3.0"
+torch = "1.12.1"
+torchmetrics = "0.10.0"
+pytorch-lightning = ">1.7.7,<2.0.0"
+segmentation-models-pytorch = "0.3.0"
+rasterio = "^1.2.6"
+tensorboard = "2.10.1"
+albumentations = "1.2.1"
+dill = "^0.3.7"
+ipykernel = "^6.27.1"
+opencv-python = "^4.8.1.78"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
